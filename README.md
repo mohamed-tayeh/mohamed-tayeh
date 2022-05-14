@@ -1,5 +1,3 @@
-# Mohamed Tayeh (Moh)
-
 - 🔭 I’m currently working on ... [COVID19 Vax Tracker](https://covid.mohamedtayeh.com/) and other open soruce chat bots for Twitch and Discord
 - 🌱 I’m currently learning ... Using python with streamlabs host for twitch chat bots
 - 👯 I’m looking to collaborate on ... Services that make life easier or are data-oriented services
