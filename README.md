@@ -25,8 +25,6 @@
   <img alt="matlab" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 </div>
 
-<br/>
-
 ### Frameworks
 
 <div style="display: inline_block; margin-top: 15px;">
@@ -36,16 +34,12 @@
   <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
 </div>
 
-<br/>
-
 ### Database
 
 <div style="display: inline_block; margin-top: 15px;">
  <img alt="postgresql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
  <img alt="mongodb" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
-
-<br/>
 
 ### Cloud Tools
 
@@ -57,8 +51,6 @@
   <img alt="bash" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 
 </div>
-
-<br/>
 
 ### Other
 
@@ -72,14 +64,9 @@
 
 <br/>
 
-### Public Github Stats
-
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mohamed-tayeh&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 </div>
-
-<br/>
-<br/>
 
 <div align="center" style="display: inline_block"><br>
   <a href = "mailto:mohamedntayeh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
