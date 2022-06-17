@@ -31,7 +31,7 @@
   <img alt="django" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />          
   <img alt="express" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img alt="angular" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
-  <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
+  <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />             
 </div>
 
 ### Database
@@ -39,8 +39,9 @@
 <div style="display: inline_block; margin-top: 15px;">
  <img alt="postgresql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
  <img alt="mongodb" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <img alt="neo4j" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />   
 </div>
-
+          
 ### Cloud Tools
 
 <div style="display: inline_block; margin-top: 15px;">
@@ -61,6 +62,7 @@
   <img alt="redux" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img alt="vscode" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="jira" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+  <img alt="npm" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 <br/>
 
