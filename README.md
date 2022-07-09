@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... Services that make daily life more efficient and/or data-oriented services
 - 🎓 Undergrad: ... Statistics (Machine Learning and Data Mining) Specialist and Computer Science Major
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Fluent in 2 languages but can understand and talk a little in 5 :D
+- ⚡ Fun fact: ... Fluent in 2 languages but can understand and talk a little in 3 :D
 
 ### Languages
 
