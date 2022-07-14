@@ -2,7 +2,7 @@
 
 ### whoami
 
-- 🔭 I’m currently working on ... [COVID19 Vax Tracker](https://covid.mohamedtayeh.com/) and other open soruce chat bots for Twitch and Discord
+- 🔭 I’m currently working on ... [COVID19 Vax Tracker](https://covid.mohamedtayeh.com/) and other open source chat bots for Twitch and Discord
 - 🌱 I’m currently learning ... Using python with streamlabs host for twitch chat bots
 - 👯 I’m looking to collaborate on ... Services that make daily life more efficient and/or data-oriented services
 - 🎓 Undergrad: ... Statistics (Machine Learning and Data Mining) Specialist and Computer Science Major
