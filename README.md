@@ -8,6 +8,7 @@
 - 🎓 Undergrad: ... Computer Science Major and Statistics (Machine Learning and Data Mining) Specialist
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Fluent in 2 languages but can understand and talk a little in 3 :D
+- 💻 Website: https://www.mohamedtayeh.com/
 
 ### Languages
 
