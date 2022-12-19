@@ -3,7 +3,7 @@
 ### whoami
 
 - 🔭 I’m currently working on: creating open source chat bots for Twitch and Discord
-- 🌱 I’m currently learning: GO programming and deploying chat bots to scale
+- 🌱 I’m currently learning: Java programming and deploying chat bots to scale
 - 👯 I’m looking to collaborate on: Services that make daily life more efficient and/or data-oriented services
 - 🎓 Undergrad: Honours Computer Science Major and Statistics (Machine Learning and Data Mining) Specialist
 - 😄 Pronouns: He/Him
