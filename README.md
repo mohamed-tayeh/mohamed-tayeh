@@ -32,6 +32,7 @@
 <div style="display: inline_block; margin-top: 15px;">
   <img alt="django" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img alt="express" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img alt="spring" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img alt="angular" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
   <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
 </div>
