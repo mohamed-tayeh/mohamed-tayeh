@@ -2,6 +2,7 @@
 
 ### whoami
 
+- 👔 Work account: https://github.com/Moh-inc
 - 🔭 I’m currently working on: creating open source chat bots for Twitch and Discord
 - 🌱 I’m currently learning: Java programming and deploying chat bots to scale
 - 👯 I’m looking to collaborate on: Services that make daily life more efficient and/or data-oriented services
@@ -14,8 +15,9 @@
 
 <div style="display: inline_block; margin-top: 15px;">
   <img alt="ts" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="python" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="java" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="go" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img alt="python" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="js" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="R" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img alt="C" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -30,9 +32,10 @@
 ### Frameworks
 
 <div style="display: inline_block; margin-top: 15px;">
-  <img alt="django" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img alt="express" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img alt="spring" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img alt="gofiber" height="45" width="45" style="margin-right: 15px;"  src="https://gofiber.io/assets/images/logo.svg" />
+  <img alt="express" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img alt="django" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img alt="angular" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
   <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
 </div>
@@ -41,6 +44,7 @@
 
 <div style="display: inline_block; margin-top: 15px;">
  <img alt="postgresql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+ <img alt="mysql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
  <img alt="mongodb" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img alt="neo4j" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
 </div>
@@ -49,6 +53,7 @@
 
 <div style="display: inline_block; margin-top: 15px;">
   <img alt="aws" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="azure" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
   <img alt="digitalocean" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
   <img alt="docker" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img alt="nginx" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
